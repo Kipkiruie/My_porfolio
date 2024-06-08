@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b305f04c-d49d-4673-9dac-eb475a65e28f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pushFirebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/engineersticity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/engineersticity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/personal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/personal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog-img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog-img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/man.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Sm5OnhRCu7k2pX4PldvLVF1IkA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mine" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b305f04c-d49d-4673-9dac-eb475a65e28f" name="Default Changelist" comment="" />
+      <created>1572155900959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572155900959</updated>
+      <workItem from="1572155903374" duration="11354000" />
+      <workItem from="1572510683898" duration="4797000" />
+      <workItem from="1572596535318" duration="7410000" />
+      <workItem from="1572685192773" duration="2349000" />
+      <workItem from="1572771395568" duration="13214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
