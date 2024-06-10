@@ -514,7 +514,7 @@ img {
     bottom: -5px;
     margin: auto;
     height: 1px;
-    background: #fff;
+    background: #000;
     -webkit-transition: ease all 0.2s;
     -moz-transition: ease all 0.2s;
     -o-transition: ease all 0.2s;
