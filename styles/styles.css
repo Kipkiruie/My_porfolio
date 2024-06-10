@@ -465,7 +465,7 @@ img {
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.2s ease;
     transition: all 0.2s ease;
-    position: fixed;
+    position: relative;
 }
 
 .header-nav .navbar-toggler span {
