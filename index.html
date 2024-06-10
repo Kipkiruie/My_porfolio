@@ -45,7 +45,7 @@
 <!-- / -->
 
 <!-- Header -->
-<header>
+<header id="navbar">
     <nav class="navbar header-nav fixed-top navbar-expand-lg" >
         <div class="container">
             <!-- Brand -->
@@ -637,8 +637,18 @@
 <script src="https://www.gstatic.com/firebasejs/7.2.3/firebase-firestore.js"></script>
 
 <script src="js/pushFirebase.js"></script>
-
+<script>prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-50px";
+  }
+  prevScrollpos = currentScrollPos;
+}</script>
 </body>
 <!-- Body End -->
+
 </html>
 
