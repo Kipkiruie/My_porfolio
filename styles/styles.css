@@ -514,7 +514,7 @@ img {
     bottom: -5px;
     margin: auto;
     height: 1px;
-    background: #000;
+    background: #fff;
     -webkit-transition: ease all 0.2s;
     -moz-transition: ease all 0.2s;
     -o-transition: ease all 0.2s;
@@ -525,6 +525,7 @@ img {
 .header-nav .navbar-nav .nav-link:hover:after,
 .header-nav .navbar-nav .nav-link.active:after {
     width: 75%;
+    color: orange;
 }
 
 /*Navbar Toogle*/
