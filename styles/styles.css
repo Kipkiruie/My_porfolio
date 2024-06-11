@@ -305,7 +305,7 @@ img {
 }
 
 .m-btn-white:hover {
-    color: #fff;
+    color: #000;
     /*-webkit-transform: translateY(-7px);
        -moz-transform: translateY(-7px);
          -o-transform: translateY(-7px);
@@ -313,7 +313,7 @@ img {
 }
 
 .m-btn-theme {
-    color: #fff;
+    color: #000;
 }
 
 .m-btn-theme:hover {
