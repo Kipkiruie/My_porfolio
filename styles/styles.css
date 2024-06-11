@@ -626,7 +626,6 @@ img {
     height: 100vh;
     background: url("assets/Elisha.jpg") top center;
     background-size: cover;
-    background-repeat: no-repeat;
   }
 .home-banner {
     position: relative;
