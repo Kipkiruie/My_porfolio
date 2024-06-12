@@ -2012,10 +2012,9 @@ blockquote.blockquote-left .parson {
 
 .footer {
     background: #111;
-    margin-top: -100px;
+    margin-top: 100px;
     padding: 150px 0 50px;
     text-align: center;
-    margin-bottom: 100px;
 }
 
 .footer-blog {
