@@ -14,10 +14,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message .= "Message: $comment\n";
 
     // Send email
-    mail($to, $subject, $message);
-
-    // Redirect to success page or display success message
-    header("Location: success.html"); // Redirect to a success page
-    exit;
+    if (mail($to, $subject, $message)) {
+        // Redirect back to index.html with success parameter
+        header("Location: index.html?status=success");
+        exit;
+    } else {
+        // Redirect back to index.html with error parameter
+        header("Location: index.html?status=error");
+        exit;
+    }
 }
 ?>
