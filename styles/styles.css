@@ -2013,6 +2013,7 @@ blockquote.blockquote-left .parson {
 .footer {
     background: #111;
     margin-top: -50px;
+    margin-bottom:  -10px; ;
     padding: 150px 0 50px;
     text-align: center;
 }
