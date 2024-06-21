@@ -2014,7 +2014,9 @@ blockquote.blockquote-left .parson {
     background: #111;
     margin-top: 10px;
     padding: 150px 0 50px;
-    text-align: justify;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 .footer-blog {
