@@ -2012,18 +2012,20 @@ blockquote.blockquote-left .parson {
 
 .footer {
     background: #111;
-    margin-top: 10px;
-    padding: 50px 0 150px;
+    margin-top: 5px;
+    padding: 5px 0;
     text-align: center;
 }
 
-.footer-blog {
-    margin-top: 0;
-    padding: 50px 0;
+.footer .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.footer p {
-    margin: 0;
+.footer-top {
+    margin-bottom: 20px;
 }
 
 .footer .footer-logo {
@@ -2045,12 +2047,28 @@ blockquote.blockquote-left .parson {
     position: absolute;
     bottom: 11px;
     right: -8px;
-    float: left;
     background: #fff;
 }
 
+.footer-bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .footer .social-icons {
-    padding: 20px 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center; 
+    width: 100%; 
+}
+
+.footer .social-icons li {
+    display: inline-block;
+    flex: 1;
+    text-align: center;
 }
 
 .footer .social-icons li a {
@@ -2059,7 +2077,19 @@ blockquote.blockquote-left .parson {
     text-align: center;
     line-height: 40px;
     color: #a5a5a5;
+    font-size: 20px;
+    transition: color 0.3s;
 }
+
+.footer .social-icons li a:hover {
+    color: #ddd;
+}
+
+.footer .copyright {
+    color: #fff;
+    margin-top: 10px;
+}
+
 
 /*-----------------------------------------
 *  Background Properties
